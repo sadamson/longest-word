@@ -1,0 +1,8 @@
+{
+  "title": "Longest Word",
+  "min_word_length": 6,
+  "max_word_length": 16,
+  "max_results": 10,
+  "drop_contractions": true,
+  "sort_by_length": true
+}

@@ -1,0 +1,11 @@
+body {
+    font-size: 16px;
+}
+p {
+    padding: 10px;
+}
+div#response {
+    padding: 10px;
+    background-color: azure;
+    font-weight: bold;
+}
